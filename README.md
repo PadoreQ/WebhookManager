@@ -1,13 +1,13 @@
 # WebhookRemover
 Simple code that removes webhook
 
-#Installation
+# Installation
 
 `pip install -r requirements.txt`
 
 `python3 remover.py`
 
-#Removing
+# Removing
 
 Paste the webhook you want to delete
 
