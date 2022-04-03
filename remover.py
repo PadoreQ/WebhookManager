@@ -1,6 +1,5 @@
 import discord
 import requests
-import dhooks
 import time
 import os
 
