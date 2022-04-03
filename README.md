@@ -9,7 +9,7 @@ Simple code that removes webhook
 
 # Removing
 
-Paste the webhook you want to delete
+Paste the webhook you want to remove
 
 Webhook will be removed
 
