@@ -1,16 +1,36 @@
-# WebhookRemover
-Simple code that removes webhook
+# Webhook Manager
+Several functions for managing the webhook.
 
 # Installation
 
 `pip install -r requirements.txt`
 
-`python3 remover.py`
+`python3 main.py`
 
-# Removing
+# Delete Webhook
 
-Paste the webhook you want to remove
+Paste the webhook you want to delete.
+Webhook will be deleted.
 
-Webhook will be removed
+# Send Message
+
+Paste the webhook you want to send the message to.
+Write a message.
+Message will be sent.
+
+# Webhook Spammer
+
+Paste the webhook you want to spam.
+Write a message to be sent.
+Write how many messages will be sent.
+Enter the message delay.
+Messages will be sent.
 
 
+# **Functions**
+
+```
++ Delete Webhook
++ Send Message
++ Spam Webhook
+```
